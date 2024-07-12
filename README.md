@@ -1,1 +1,1 @@
-SQL command to build a database in PostgreSQL about the universe.
+This repository contains the component files for the Celestial Bodies Database project on freeCodeCamp: https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database
